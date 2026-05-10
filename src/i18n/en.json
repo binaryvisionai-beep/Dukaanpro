@@ -1,0 +1,38 @@
+{
+  "dashboard": {
+    "greeting": "Good Morning, {{shopName}}",
+    "todaySales": "Today's Sales",
+    "todayProfit": "Today's Profit",
+    "pendingDues": "Pending Dues",
+    "recentTransactions": "Recent Transactions"
+  },
+  "inventory": {
+    "title": "Inventory",
+    "searchPlaceholder": "Search by name, SKU or category",
+    "lowStock": "Low Stock",
+    "addProduct": "Add Product"
+  },
+  "billing": {
+    "title": "Billing",
+    "generateBill": "Generate Bill",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "profit": "Gross Profit",
+    "revenue": "Revenue",
+    "investment": "Investment"
+  },
+  "feed": {
+    "trending": "Trending",
+    "offers": "Offers",
+    "tips": "Tips"
+  },
+  "profile": {
+    "language": "Language",
+    "theme": "Theme",
+    "savedPosts": "Saved Posts"
+  }
+}

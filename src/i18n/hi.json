@@ -1,0 +1,38 @@
+{
+  "dashboard": {
+    "greeting": "सुप्रभात, {{shopName}}",
+    "todaySales": "आज की बिक्री",
+    "todayProfit": "आज का लाभ",
+    "pendingDues": "बाकी उधारी",
+    "recentTransactions": "हाल की लेनदेन"
+  },
+  "inventory": {
+    "title": "इन्वेंट्री",
+    "searchPlaceholder": "नाम, SKU या श्रेणी से खोजें",
+    "lowStock": "कम स्टॉक",
+    "addProduct": "उत्पाद जोड़ें"
+  },
+  "billing": {
+    "title": "बिलिंग",
+    "generateBill": "बिल बनाएं",
+    "subtotal": "उप-योग",
+    "discount": "छूट",
+    "total": "कुल"
+  },
+  "analytics": {
+    "title": "एनालिटिक्स",
+    "profit": "सकल लाभ",
+    "revenue": "राजस्व",
+    "investment": "निवेश"
+  },
+  "feed": {
+    "trending": "ट्रेंडिंग",
+    "offers": "ऑफर",
+    "tips": "टिप्स"
+  },
+  "profile": {
+    "language": "भाषा",
+    "theme": "थीम",
+    "savedPosts": "सेव किए गए पोस्ट"
+  }
+}
